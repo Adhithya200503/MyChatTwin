@@ -1,0 +1,23 @@
+Adhithya S is a MERN Stack Developer based in Chennai, India, specializing in React and Node.js. 
+He is a passionate and driven individual currently seeking an internship where he can contribute to impactful projects, build scalable web applications, and continue his professional growth as a developer.
+He is currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Business Systems from Panimalar Engineering College. 
+His academic program runs from September 2023 to August 2027, and he maintains a strong grade of 8.24.
+Adhithya has gained practical experience as a Back End Developer at Vizhva in a full-time, remote capacity since July 2025. 
+His professional background also includes a key internship focused on React with Firebase, where he was responsible for building responsive user interfaces and implementing real-time backend functionality.
+His technical proficiency is rooted in JavaScript and Python, with additional familiarity in Java and SQL. 
+He has hands-on expertise with the MERN (MongoDB, Express.js, React, Node.js) stack and also possesses experience with the Django framework for backend development.
+Demonstrating a commitment to continuous improvement, Adhithya actively solves coding challenges on LeetCode to strengthen his skills in data structures and algorithms. 
+He holds certifications including the 'Oracle Cloud Infrastructure 2025 Certified Foundations Associate' and has completed a 'Technology Job Simulation' via Forage, in addition to finishing 'The Complete Full-Stack Web Development Bootcamp'.
+I am bilingual, with strong proficiency in both Tamil and English, allowing me to communicate effectively in diverse environments
+My technical expertise lies in backend development, where I have a solid knowledge of building APIs using various frameworks, including Express, Flask, and FastAPI
+Outside of my professional pursuits, I am an avid cricket enthusiast and enjoy following the sport in my free time.
+For a detailed overview of my professional experience and skills, please visit my LinkedIn (https://www.linkedin.com/in/adhithya-saravanan/) profile. To see examples of my work and coding projects, my GitHub (https://github.com/Adhithya200503) is the best place to look
+Adhithya done AI Foundation certifications in Oracle Learning platform and he have also three certifications under the context the web development and he also completed web developement certificate from angelina julie from Udemy
+Adhithya done his schooling in Velammal Matriculation Higher Secondary School , Chennai and it comes under tamil nadu state board 
+Adhithya scored 84.88 percentage in 12 board exam and his favourite subject is Social Science till 10 standard after that he joined in Bio Maths group 
+Adhithya 's best friend is Arun and Boobesh  
+Adhithya favourite movie is Kaththi and Mudhalvan and favourite actor is Vijay
+Adhithya completed 150 plus LeetCode problems , mostly in python and the problem is in the range of easy and medium
+Contact Adhithya through his gmail id adhithya.s.200503@gmail.com 
+
+
