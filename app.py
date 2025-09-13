@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from google import genai
 
-client = genai.Client(api_key="AIzaSyB-DocK8hcBqqPlrd4y-WCd-ooG0n0oYb8")
+client = genai.Client(api_key=API_KEY)
 
 
 with open("docs.pkl", "rb") as f:
